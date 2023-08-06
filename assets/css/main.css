@@ -160,6 +160,19 @@ input, select, textarea {
 		a:hover {
 			border-bottom-color: transparent;
 		}
+		
+		a.pic {
+			text-decoration: none;
+			border: none;
+			border-bottom-color: transparent;
+			border-bottom: dotted 0px rgba(255, 255, 255, 0.5);
+		}
+		
+		/* a.pic img{
+			border: none;
+			border-bottom-color: transparent;
+			border-bottom: dotted 0px rgba(255, 255, 255, 0.5);
+		} */
 
 	strong, b {
 		color: #ffffff;
@@ -175,7 +188,7 @@ input, select, textarea {
 	}
 
 	titlep{
-		font-size: 5px;
+		margin: 0 0 1rem 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
