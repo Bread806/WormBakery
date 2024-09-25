@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "name": "wormbakery",
+  "version": "1.0.0",
+  "description": "[蚯蚓麵包屋](https://bread806.github.io/WormBakery/#)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
